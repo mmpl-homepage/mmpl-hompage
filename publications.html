@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>연구실 홈페이지 - 논문/실적</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container header-inner">
+    <span class="site-title">OO 연구실</span>
+    <nav class="nav-menu">
+      <a href="index.html">소개</a>
+      <a href="research.html">연구 분야</a>
+      <a href="members.html">구성원</a>
+      <a href="publications.html" class="active" aria-current="page">논문/실적</a>
+      <a href="news.html">공지사항</a>
+      <a href="contact.html">연락처</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="section">
+    <div class="container">
+      <h2>논문/실적</h2>
+      <p class="section-lead">최신순으로 정렬되며, 연도와 유형으로 필터링할 수 있습니다.</p>
+      <div id="publications-errors"></div>
+      <div class="filter-bar">
+        <label>
+          연도
+          <select id="publications-year-filter">
+            <option value="all">전체</option>
+          </select>
+        </label>
+        <label>
+          유형
+          <select id="publications-type-filter">
+            <option value="all">전체</option>
+          </select>
+        </label>
+      </div>
+      <ul id="publications-list" class="item-list">
+        <li class="loading">불러오는 중...</li>
+      </ul>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container">
+    <p>&copy; 2026 OO 연구실. All rights reserved.</p>
+  </div>
+</footer>
+
+<script src="js/common.js"></script>
+<script src="js/publications.js"></script>
+</body>
+</html>

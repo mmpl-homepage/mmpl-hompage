@@ -1,0 +1,26 @@
+[
+  {
+    "id": "hong-gildong",
+    "name": "홍길동",
+    "role": "교수",
+    "email": "hong@lab.ac.kr",
+    "interests": ["데이터처리", "머신러닝"],
+    "bio": "대규모 데이터 파이프라인과 시스템 최적화를 연구합니다."
+  },
+  {
+    "id": "kim-cheolsu",
+    "name": "김철수",
+    "role": "박사과정",
+    "email": "kim.cs@lab.ac.kr",
+    "interests": ["이상 탐지", "분산 시스템"],
+    "bio": "실시간 데이터 스트림에서의 이상 탐지 기법을 연구합니다."
+  },
+  {
+    "id": "lee-younghee",
+    "name": "이영희",
+    "role": "석사과정",
+    "email": "lee.yh@lab.ac.kr",
+    "interests": ["데이터 시각화"],
+    "bio": "복잡한 데이터를 직관적으로 전달하는 시각화 방법을 연구합니다."
+  }
+]
