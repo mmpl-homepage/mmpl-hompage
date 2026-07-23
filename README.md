@@ -59,5 +59,11 @@ python -m http.server 5173
 3. GitHub 저장소 페이지에서 **Settings → Pages**로 이동합니다.
 4. **Source**를 "Deploy from a branch"로 설정하고, 브랜치는 `main`, 폴더는 `/(root)`를 선택한 뒤 저장합니다.
 5. 잠시 후 `https://<사용자명>.github.io/<저장소명>/` 주소로 홈페이지가 공개됩니다.
+   저장소 이름이 `<사용자명>.github.io` 형식이 아닌 이상 반드시 뒤에 `/<저장소명>/` 경로가 붙습니다. 이 경로를 빼고 접속하면 "Site not found" 404가 뜨니 주의하세요.
 
 빌드 도구나 별도 배포 워크플로 없이도 정적 파일이 그대로 서비스되므로 위 과정만으로 충분합니다.
+
+### 현재 배포 주소
+
+- 저장소: https://github.com/mmpl-homepage/mmpl-hompage
+- 라이브 사이트: **https://mmpl-homepage.github.io/mmpl-hompage/**
