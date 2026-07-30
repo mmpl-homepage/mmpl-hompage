@@ -1,0 +1,53 @@
+[
+  {
+    "id": "news-recruiting",
+    "title": "학부 연구생 및 대학원생 모집중",
+    "content": "다기능재료물리연구실에서 함께 연구할 학부 연구생과 대학원생을 상시 모집하고 있습니다. 관심 있는 분은 하단 연락처를 참고해 문의해 주세요.",
+    "author": "Min-jun Ha",
+    "publishedAt": "2025-03-03T09:00:00+09:00",
+    "updatedAt": "",
+    "link": "",
+    "pinned": true,
+    "category": "모집"
+  },
+  {
+    "id": "news-wei-zhang-join",
+    "title": "Wei Zhang 박사과정 학생 합류",
+    "content": "Wei Zhang 학생이 박사과정으로 연구실에 합류했습니다. Welcome!",
+    "author": "Min-jun Ha",
+    "publishedAt": "2025-09-01T09:00:00+09:00",
+    "updatedAt": "",
+    "link": "",
+    "category": "합류"
+  },
+  {
+    "id": "news-hana-novak-join",
+    "title": "Hana Novak 석박통합과정 학생 합류",
+    "content": "Hana Novak 학생이 석박통합과정으로 연구실에 합류했습니다. Welcome!",
+    "author": "Min-jun Ha",
+    "publishedAt": "2026-01-05T09:00:00+09:00",
+    "updatedAt": "",
+    "link": "",
+    "category": "합류"
+  },
+  {
+    "id": "news-scientific-reports-2025",
+    "title": "Scientific Reports 논문 게재",
+    "content": "\"Massive Dirac magnons in the three-dimensional honeycomb magnetic oxide FeTiO3\" 논문이 Scientific Reports에 게재되었습니다.",
+    "author": "Min-jun Ha",
+    "publishedAt": "2025-11-10T09:00:00+09:00",
+    "updatedAt": "2025-11-12T10:00:00+09:00",
+    "link": "",
+    "category": "논문"
+  },
+  {
+    "id": "news-neutron-seminar-2026",
+    "title": "중성자 산란 초청 세미나 개최",
+    "content": "다기능재료물리연구실에서 해외 연구자를 초청해 중성자 산란 기법을 주제로 세미나를 개최했습니다.",
+    "author": "Min-jun Ha",
+    "publishedAt": "2026-05-15T09:00:00+09:00",
+    "updatedAt": "",
+    "link": "",
+    "category": "세미나"
+  }
+]

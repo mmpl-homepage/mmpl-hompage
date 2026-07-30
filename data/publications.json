@@ -1,0 +1,145 @@
+[
+  {
+    "id": "pub-2025-massive-dirac-magnons",
+    "title": "Massive Dirac magnons in the three-dimensional honeycomb magnetic oxide FeTiO3",
+    "authors": ["JH Chung", "K Shin", "TR Yokoo", "D Ueta", "M Imai", "H Kim", "DH Kiem", "MJ Han", "..."],
+    "venue": "Scientific Reports 15 (1), 5978",
+    "year": 2025,
+    "type": "저널",
+    "link": "",
+    "summary": "",
+    "citedBy": 0
+  },
+  {
+    "id": "pub-2025-growth-environment-ilmenite",
+    "title": "Growth Environment Dependent Phase Propagation of Ilmenite-Hematite (1-x) FeTiO3-xFe2O3 Films",
+    "authors": ["D Lee", "S Song", "H Kim", "H Lee", "J Lee", "M Kim", "J Lee", "SW Hwang", "S Yoon", "..."],
+    "venue": "Journal of Alloys and Compounds, 178997",
+    "year": 2025,
+    "type": "저널",
+    "link": "",
+    "summary": "",
+    "citedBy": 0
+  },
+  {
+    "id": "pub-2024-thermal-evolution-fepse3",
+    "title": "Thermal evolution of spin excitations in honeycomb Ising antiferromagnetic FePSe3",
+    "authors": ["L Chen", "X Teng", "D Hu", "F Ye", "GE Granroth", "M Yi", "JH Chung", "RJ Birgeneau", "..."],
+    "venue": "npj Quantum Materials 9 (1), 40",
+    "year": 2024,
+    "type": "저널",
+    "link": "",
+    "summary": "",
+    "citedBy": 4
+  },
+  {
+    "id": "pub-2022-anisotropic-magnon-damping",
+    "title": "Anisotropic magnon damping by zero-temperature quantum fluctuations in ferromagnetic CrGeTe3",
+    "authors": ["L Chen", "C Mao", "JH Chung", "MB Stone", "AI Kolesnikov", "X Wang", "N Murai", "..."],
+    "venue": "Nature Communications 13 (1), 1-7",
+    "year": 2022,
+    "type": "저널",
+    "link": "",
+    "summary": "",
+    "citedBy": 28
+  },
+  {
+    "id": "pub-2022-neutron-news-workshop",
+    "title": "The 19th Korea-Japan Meeting on Neutron Science Workshop on Neutron and Muon Methods for J-PARC MLF Users in Korea Was Held Virtually",
+    "authors": ["K Nakajima", "H Seto", "JH Chung"],
+    "venue": "Neutron News 32 (4), 2-3",
+    "year": 2022,
+    "type": "학회",
+    "link": "",
+    "summary": "",
+    "citedBy": 0
+  },
+  {
+    "id": "pub-2021-massless-dirac-magnons-crcl3",
+    "title": "Massless Dirac magnons in the two dimensional van der Waals honeycomb magnet CrCl3",
+    "authors": ["L Chen", "MB Stone", "AI Kolesnikov", "B Winn", "W Shon", "P Dai", "JH Chung"],
+    "venue": "2D Materials 9 (1), 015006",
+    "year": 2021,
+    "type": "저널",
+    "link": "",
+    "summary": "",
+    "citedBy": 20
+  },
+  {
+    "id": "pub-2021-spin-flop-phase",
+    "title": "Spin-flop Phase in a Honeycomb Antiferromagnet Mn0.84Mg0.16TiO3",
+    "authors": ["Shamoto", "H Yamauchi", "K Ikeuchi", "MK Lee", "LJ Chang", "VO Garlea", "..."],
+    "venue": "Journal of the Physical Society of Japan 90 (9), 093703",
+    "year": 2021,
+    "type": "저널",
+    "link": "",
+    "summary": "",
+    "citedBy": 0
+  },
+  {
+    "id": "pub-2021-magnetic-field-topological-spin",
+    "title": "Magnetic Field Effect on Topological Spin Excitations",
+    "authors": ["L Chen", "JH Chung", "MB Stone", "AI Kolesnikov", "B Winn", "VO Garlea", "..."],
+    "venue": "Physical Review X 11 (3), 031047",
+    "year": 2021,
+    "type": "저널",
+    "link": "",
+    "summary": "",
+    "citedBy": 108
+  },
+  {
+    "id": "pub-2021-acetone-sensor",
+    "title": "Highly selective, sensitive, and rapidly responding acetone sensor using ferroelectric ε-WO3 spheres doped with Nb for monitoring ketogenic diet efficiency",
+    "authors": ["HJ Choi", "JH Chung", "JW Yoon", "JH Lee"],
+    "venue": "Sensors and Actuators B: Chemical 338, 129823",
+    "year": 2021,
+    "type": "저널",
+    "link": "",
+    "summary": "",
+    "citedBy": 42
+  },
+  {
+    "id": "pub-2021-spin-wave-mntio3",
+    "title": "Spin Wave Excitations in Honeycomb Antiferromagnet MnTiO3",
+    "authors": ["IY Hwang", "KH Lee", "JH Chung", "K Ikeuchi", "VO Garlea", "H Yamauchi", "..."],
+    "venue": "Journal of the Physical Society of Japan 90 (6), 064708",
+    "year": 2021,
+    "type": "저널",
+    "link": "",
+    "summary": "",
+    "citedBy": 6
+  },
+  {
+    "id": "pub-2021-aps-march-meeting",
+    "title": "Spin wave excitations in van der Waals honeycomb ferromagnets",
+    "authors": ["L Chen", "JH Chung", "P Dai"],
+    "venue": "APS March Meeting Abstracts 2021, R36.009",
+    "year": 2021,
+    "type": "학회",
+    "link": "",
+    "summary": "",
+    "citedBy": 0
+  },
+  {
+    "id": "pub-2020-magnetic-anisotropy",
+    "title": "Magnetic anisotropy in ferrimagnetic",
+    "authors": ["L Chen", "JH Chung", "T Chen", "C Duan", "A Schneidewind", "I Radelytskyi", "..."],
+    "venue": "Physical Review B 101 (13), 134418",
+    "year": 2020,
+    "type": "저널",
+    "link": "",
+    "summary": "",
+    "citedBy": 120
+  },
+  {
+    "id": "pub-2020-stabilization-orthorhombic",
+    "title": "Stabilization of orthorhombic distortions in Cu-doped and Co-doped ferrimagnetic",
+    "authors": ["KH Lee", "IY Hwang", "JH Chung", "H Ishibashi", "Y Kubota", "S Kawaguchi", "S Lee", "..."],
+    "venue": "Physical Review B 101 (8), 085126",
+    "year": 2020,
+    "type": "저널",
+    "link": "",
+    "summary": "",
+    "citedBy": 11
+  }
+]

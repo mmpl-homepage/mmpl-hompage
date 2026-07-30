@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>MMPL - 공지사항</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<header class="site-header">
+  <div class="container header-inner">
+    <span class="site-title">MMPL</span>
+    <nav class="nav-menu">
+      <a href="index.html">소개</a>
+      <a href="research.html">연구 분야</a>
+      <a href="members.html">구성원</a>
+      <a href="publications.html">논문/실적</a>
+      <a href="news.html" class="active" aria-current="page">공지사항</a>
+    </nav>
+  </div>
+</header>
+
+<main>
+  <section class="section">
+    <div class="container">
+      <h2>공지사항</h2>
+      <p class="section-lead">연구실의 소식과 공지를 최신순으로 안내합니다.</p>
+      <div id="news-errors"></div>
+      <div id="news-pinned"></div>
+      <ul id="news-list" class="item-list">
+        <li class="loading">불러오는 중...</li>
+      </ul>
+      <nav id="news-pagination" class="pagination" aria-label="공지사항 페이지 이동"></nav>
+    </div>
+  </section>
+</main>
+
+<footer class="site-footer">
+  <div class="container footer-inner">
+    <div class="footer-contact">
+      <p><strong>주소</strong> 서울특별시 성북구 예시로 100 예시대학교 예시관 101호</p>
+      <p><strong>이메일</strong> <a href="mailto:mmpl.lab@example.com">mmpl.lab@example.com</a></p>
+      <p><strong>전화</strong> +82-2-0000-0000</p>
+    </div>
+    <p class="footer-copy">&copy; 2026 MMPL. All rights reserved.</p>
+  </div>
+</footer>
+
+<script src="js/common.js"></script>
+<script src="js/news.js"></script>
+</body>
+</html>
