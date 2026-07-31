@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 240 240">
+  <rect width="240" height="240" fill="#f8f4f4"/>
+  <g transform="translate(120,120)" fill="none" stroke="#ae1800" stroke-width="6" stroke-linejoin="round">
+    <polygon points="0,-70 60,-35 60,35 0,70 -60,35 -60,-35"/>
+    <path d="M0,-70 L0,0 M60,-35 L0,0 M60,35 L0,0 M0,70 L0,0 M-60,35 L0,0 M-60,-35 L0,0" stroke-width="3"/>
+    <circle r="6" fill="#ae1800" stroke="none"/>
+  </g>
+</svg>

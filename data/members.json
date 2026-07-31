@@ -4,6 +4,7 @@
     "name": "Min-jun Ha",
     "role": "교수",
     "email": "minjun.ha@example.com",
+    "photo": "img/members/min-jun-ha.svg",
     "interests": ["Neutron scattering", "Quantum magnetism", "Multifunctional materials"],
     "bio": "2012-Present: Professor, Department of Physics / 2008-2012: Postdoctoral Researcher, Oak Ridge National Laboratory / 2003-2008: Ph.D., California Institute of Technology"
   },
@@ -12,6 +13,7 @@
     "name": "Elena Petrova",
     "role": "연구교수",
     "email": "elena.petrova@example.com",
+    "photo": "img/members/elena-petrova.svg",
     "interests": ["Spin dynamics", "Neutron instrumentation"],
     "bio": "2023-Present: Research Professor / 2022: Ph.D., Technical University of Munich"
   },
@@ -20,6 +22,7 @@
     "name": "Wei Zhang",
     "role": "박사과정",
     "email": "wei.zhang@example.com",
+    "photo": "img/members/wei-zhang.svg",
     "interests": ["Quantum spin liquids"],
     "bio": "2021-Present: Ph.D. candidate / 2021: M.S., Tsinghua University"
   },
@@ -28,6 +31,7 @@
     "name": "Fatima Al-Sayed",
     "role": "박사과정",
     "email": "fatima.alsayed@example.com",
+    "photo": "img/members/fatima-al-sayed.svg",
     "interests": ["Magnon transport", "Thin-film magnetism"],
     "bio": "2022-Present: Ph.D. candidate / 2022: M.S., ETH Zurich"
   },
@@ -36,6 +40,7 @@
     "name": "Junseo Lim",
     "role": "석박통합과정",
     "email": "junseo.lim@example.com",
+    "photo": "img/members/junseo-lim.svg",
     "interests": ["Thin film growth"],
     "bio": ""
   },
@@ -44,6 +49,7 @@
     "name": "Hana Novak",
     "role": "석박통합과정",
     "email": "hana.novak@example.com",
+    "photo": "img/members/hana-novak.svg",
     "interests": [],
     "bio": ""
   },
@@ -52,6 +58,7 @@
     "name": "Carlos Medina",
     "role": "석사과정",
     "email": "carlos.medina@example.com",
+    "photo": "img/members/carlos-medina.svg",
     "interests": [],
     "bio": ""
   },
@@ -60,6 +67,7 @@
     "name": "Yuki Tanaka",
     "role": "석사과정",
     "email": "",
+    "photo": "img/members/yuki-tanaka.svg",
     "interests": ["Magnetic oxides"],
     "bio": ""
   },
@@ -68,6 +76,7 @@
     "name": "Ana Kowalski",
     "role": "학부연구생",
     "email": "ana.kowalski@example.com",
+    "photo": "img/members/ana-kowalski.svg",
     "interests": [],
     "bio": ""
   }

@@ -19,6 +19,12 @@ function renderMembers(members) {
     const grid = el('div', 'card-grid');
     groupMembers.forEach(m => {
       const card = el('div', 'card card-member');
+      if (m.photo) {
+        const photo = el('img', 'card-photo');
+        photo.src = m.photo;
+        photo.alt = m.name;
+        card.appendChild(photo);
+      }
       card.appendChild(el('p', 'card-title', m.name));
       if (m.email) {
         const emailLink = el('a', 'card-email');

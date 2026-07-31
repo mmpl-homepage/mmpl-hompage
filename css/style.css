@@ -459,6 +459,13 @@ a:hover {
   margin-bottom: var(--space-2);
 }
 
+.card-photo {
+  width: 72px;
+  height: 72px;
+  object-fit: cover;
+  background: var(--color-neutral-100);
+}
+
 .card-email {
   font-size: 13px;
   text-decoration: none;
